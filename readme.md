@@ -1,4 +1,4 @@
-# # Utility scripts
+# Utility scripts
 
 Below you can find a collection of small Python/Bash scripts aggregated in this repository
 
